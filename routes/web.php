@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/home', 'PagesController@index')->name('home');
+Route::post('/create', 'PagesController@create');
