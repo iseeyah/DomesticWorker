@@ -1,0 +1,361 @@
+/* ================================================ */
+/* don't touch this style auto generating by system */
+/* ================================================ */
+body.dt_custom_body { font-family: Open Sans; }
+.woocommerce.widget_product_tag_cloud li {
+  font-family: Open Sans;
+}
+.postdate .year {
+  font-family: Open Sans;
+}
+.postmetatop ul li {
+  font-family: Open Sans;
+}
+.singlepostmetatop ul li {
+  font-family: Open Sans;
+}
+.dt-comment-date {
+  font-family: Open Sans;
+}
+.dt-comment-comment {
+  font-family: Open Sans;
+}
+.footer-right {
+  font-family: Open Sans;
+}
+footer#footer .widget_tag_cloud .tagcloud .tag {
+  font-family: Open Sans;
+}
+footer#footer .widget_categories {
+  font-family: Open Sans;
+}
+footer#footer .widget_archive {
+  font-family: Open Sans;
+}
+.sidebar .widget_tag_cloud .tagcloud .tag {
+  font-family: Open Sans;
+}
+.sidebar .widget_categories {
+  font-family: Open Sans;
+}
+.sidebar .widget_archive {
+  font-family: Open Sans;
+}
+section#banner-section .breadcrumbs {
+  font-family: Open Sans;
+}
+.dt-contact-form input[type="text"], 
+.dt-contact-form input[type="email"], 
+.dt-contact-form input[type="password"], 
+.dt-contact-form input[type="number"], 
+.dt-contact-form input[type="tel"],
+.dt-contact-form input[type="submit"], 
+.dt-contact-form textarea {
+  font-family: Open Sans;
+}
+
+#dt-menu li a {	font-family: Open Sans; }
+#mobile-header label { font-family: Open Sans; }
+#dt-menu label { font: 3.125em/1.375em Open Sans; }
+#dt-menu .sub-nav label { font: 2em/2em Open Sans; }
+#dt-menu a, #dt-menu .sub-nav a{ font-family: Open Sans; }
+
+.postmetabottom { font-family: Open Sans; }
+.postinfo .share-button.sharer-0 label span { font-family: Open Sans !important; }
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6, 
+				.btn{
+				  font-family: Raleway;
+								  font-weight: 300;
+												}
+
+				input.secondary_color_button {
+				  font-family: Raleway;
+				}
+				.btn {
+				  font-family: Raleway;
+				}
+				.social-share-link {
+				  font-family: Raleway;
+				}
+				.postdate .day {
+				  font-family: Raleway;
+				}
+				.postcontent-quote {
+				  font-family: Raleway;
+				}
+				.dt-comment-author {
+				  font-family: Raleway;
+				}
+				#mobile-header label {
+				  font-family: Raleway;
+				}
+
+				.dt-contact-form input[type="submit"] {
+				  font-family: Raleway;
+				}
+
+
+				#dt-menu label {
+				  font: 3.125em/1.375em Raleway;
+				}
+
+				#mobile-header-top-left label {
+				  font-family: Raleway;
+				}
+				#dt-topbar-menu-left label {
+				  font: 3.125em/1.375em Raleway;
+				}
+				#dt-topbar-menu-left .sub-nav label {
+				  font: 2em/2em Raleway;
+				}
+				#dt-topbar-menu-left,
+				#dt-topbar-menu-left .sub-nav {
+				  font-family: Raleway;
+				}
+				#dt-topbar-menu-left .toggle-sub {
+				  font-family: Raleway;
+				}
+				#dt-topbar-menu-left ul li a:after {
+				    font: 1.5em Raleway;
+				}
+				#mobile-header-top-right label {
+				  font-family: Raleway;
+				}
+				#dt-topbar-menu-right label {
+				  font: 3.125em/1.375em Raleway;
+				}
+				#dt-topbar-menu-right .sub-nav label {
+				  font: 2em/2em Raleway;
+				}
+				#dt-topbar-menu-right,
+				#dt-topbar-menu-right .sub-nav {
+				  font-family: Raleway;
+				}
+				#dt-topbar-menu-right .toggle-sub {
+				  font-family: Raleway;
+				}
+				#dt-topbar-menu-right ul li a:after {
+				    font: 1.5em Raleway;
+				}
+				#top-bar {
+				  font-family: Raleway;
+				}
+				#footer-right .widget .widget-title {
+				  font-family: Raleway;
+				}
+				.postinfo .share-button.float-right.sharer-0 label span {
+				  font-family: Raleway!important;
+				}
+				.carousel-content .carousel-inner a.inline-block {
+				  font-family: Raleway;
+				}
+				.box-main-color .iconbox-detail h3,
+				.box-secondary-color .iconbox-detail h3 {
+				  font-family: Raleway;
+				}
+				.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button {
+				  font-family: Raleway;
+				}
+				h4.blog-post-title a {font-family: Raleway;}
+				.dt-comment-author {font-family: Raleway;}
+			h1, h2, h3, h4, h5, h6 { color: #304152 }
+			h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #304152 }
+
+			.btn.btn-ghost, #sequence ul li .btn-cta {
+			  border-color: #304152;
+			  color: #304152;
+			}
+			.btn.btn-ghost:hover {
+			  background-color: #304152;
+			  border-color: #304152;
+			}
+			.btn.btn-ghost:active, .btn.btn-ghost:focus {
+			  background-color: #304152;
+			  border-color: #304152;
+			}
+
+			.heading_text_color {color: #304152;}
+			.dt-shop-category .owl-carousel-navigation .btn-owl:hover { color: ;; }
+
+			.section-heading-thin-border:after,
+			.section-heading-thick-border:after,
+			.section-heading-double-border-bottom:after,
+			.section-heading-thin-border-top-bottom:after {background-color: #304152;}
+
+			h1.section-heading-border{border-color: #304152;}
+			.section-heading-border-top-bottom {border-top-color: #304152; border-bottom-color: #304152;}
+			.section-heading-point-bottom {border-bottom-color: #304152;}
+.dt-section-head h1,
+.dt-section-head h2,
+.dt-section-head h3,
+.dt-section-head h4,
+.dt-section-head h5,
+.dt-section-head h6 {
+  font-family: Raleway;
+  font-weight: 100;
+}
+blockquote { font-family: Lora !important; }
+		.tertier_color_bg {background-color: #000000; }
+
+		#footer { background-image: url(""); }
+		#footer { background-repeat: no-repeat; }
+		#footer { background-size: cover; }
+
+		.footer-left { color: #ffffff; }
+		.footer-right { color: #ffffff; }
+		footer#footer a { color: #ffffff; }
+		#footer-right .widget .widget-title { color: #ffffff; }
+
+		#footer .container .widget_text .social-circled li,
+		#footer .container .widget_text .social-circled li:last-child,
+		#footer .woocommerce ul.cart_list li,
+		#footer .woocommerce ul.product_list_widget li,
+		#footer .woocommerce-page ul.cart_list li,
+		#footer .woocommerce-page ul.product_list_widget li,
+		#footer .woocommerce.widget_product_categories li,
+		footer#footer .widget_tag_cloud .tagcloud .tag,
+		footer#footer .dt_widget_tabs .nav-tabs li a,
+		footer#footer .dt_widget_tabs .tab-pane .rowlist,
+		footer#footer .dt_widget_accordion .panel-heading,
+		footer#footer .dt_widget_accordion .panel-body,
+		#footer .widget_categories ul li,
+		#footer .widget_recent_entries ul li,
+		#footer .widget_recent_comments ul li,
+		#footer .widget_rss ul li,
+		#footer .widget_meta ul li,
+		#footer .widget_nav_menu ul li,
+		#footer .widget_archive ul li,
+		#footer .widget_text ul li,
+		footer#footer .woocommerce.widget_product_tag_cloud .tagcloud .tag {
+		  border-color: rgba(255,255,255, 0.05);
+		}
+
+		footer#footer .widget_text ul.list-inline-icon li {
+		  border: 1px solid rgba(255,255,255, 0.05);
+		}
+
+		footer#footer .widget_search {
+		  color: #ffffff;
+		}
+
+		footer#footer .widget_search #s {
+		  border: 1px solid rgba(255,255,255, 0.4);
+		  color: #ffffff;
+		}
+
+		footer#footer .select-target.select-theme-default {
+	  		border: 1px solid rgba(255,255,255, 0.4);
+		}
+
+		footer#footer .dt_widget_accordion .panel-heading {
+		  color: #ffffff;
+		}
+		
+		footer#footer .widget_recent_comments a {
+		  color: rgba(255,255,255, 0.4);
+		}
+
+		footer#footer .woocommerce.widget_product_search #s {
+		  border: 1px solid rgba(255,255,255, 0.4);
+		}
+
+	.home .menu_separator.menu_separator_type_0 { background: #ffffff; }.home .reveal .menu_separator_type_0 { background: #ffffff; }.home .reveal.alt .menu_separator_type_0 { background: #ffffff; }.home #head-page.alt.reveal #mobile-header label.toggle, .home #head-page.alt.reveal #mobile-header label.toggle:hover { color:#36495c;}.home #head-page.reveal #mobile-header label.toggle, .home #head-page.reveal #mobile-header label.toggle:hover { color:#36495c;}.menu_separator.menu_separator_type_0 { background: #ffffff; }.reveal .menu_separator_type_0 { background: #ffffff; }.reveal.alt .menu_separator_type_0 { background: #ffffff; }.home #head-page.alt.reveal #mobile-header label.toggle, .home #head-page.alt.reveal #mobile-header label.toggle:hover { color:#36495c;}.home #head-page.reveal #mobile-header label.toggle, .home #head-page.reveal #mobile-header label.toggle:hover { color:#36495c;}.home #head-page,.home #head-page #dt-menu > ul > li > a{color:#36495c;}.home #head-page #dt-menu a.search_btn {color:#36495c;}#head-page,#head-page #dt-menu > ul > li > a {color:#36495c;}#head-page,#head-page #dt-menu a.search_btn {color:#36495c;}#top-bar a {color:#36495c;}#top-bar { border-bottom: 1px solid rgba(54,73,92, 0.3) }.home #top-bar a {color:#36495c;}.home #top-bar { border-bottom: 1px solid rgba(54,73,92, 0.1) }body.dt_custom_body { font-family: Open Sans; }body.dt_custom_body { background-color: #ffffff; }body.dt_custom_body { background-color: #ffffff; }body.dt_custom_body { color: #95a5a6; }.postinfo a { color: #95a5a6; }.postmetabottom { color: #95a5a6; }.postinfo .share-button.sharer-0 label span { color: #95a5a6; }		@media(min-width: 992px) {
+			#dt-menu > ul > li { line-height: 5em;}
+			.menu_separator_space { height: 5em;}
+		}
+	
+	/* custom css generate from your custom css code*/
+	                body{height: 100%;}
+@media (min-width: 991px) {
+    #dt-menu > ul > li > a {
+        font-weight:400;
+        text-transform:uppercase;
+    }
+    #dt-menu.dt-menu-middle {
+        top:25px;
+    }
+}
+div#head-page #dt-menu.dt-menu-middle ul li.logo-desktop a {
+    top:30px;
+}
+@media (min-width:768px) {
+    .dt-contact-form .half-right-padding {padding-right:6px;}
+    .dt-contact-form .half-left-padding {padding-left:6px;}
+}    .section-hilite .dt-iconboxes.layout-7  i {font-size:3.5em;color:#fff;}
+    .section-hilite .dt-iconboxes.layout-7 .text-box h4 {margin-bottom:0;font-size:14px;}
+    .section-hilite .dt-iconboxes.layout-7 .text-box h3 {font-size:20px;}
+    .section-hilite .dt-iconboxes.layout-7 .text-box {margin-left:70px;}
+@media (min-width:1024px) {
+    .section-hilite .wpb_column {border-left:1px solid rgba(255,255,255, 0.2)}
+    .section-hilite .wpb_column:first-child {border:0;}
+}
+@media (max-width:480px) {
+    .info-box > div {
+        padding-left:0!important;    
+    }
+}
+.section-heading-thin-border:after {height:1px;}
+
+.bottom-aligned .equal-height {display:table-cell!important;float:none!important;vertical-align:bottom;}
+.bottom-aligned .size-lg {font-size:4em;}
+
+.icon-5em i {font-size: 5em;}
+
+.circle-image {
+    border-radius:50%; 
+    -webkit-border-radius:50%; 
+    display:inline-block; 
+    overflow: hidden; 
+    z-index:99;
+    position:relative;
+}
+
+/* Safari 7.1-8.0 */
+
+@media screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0) { 
+    .circle-image.hover-type-text img.vc_box_circle {(; 
+        border-radius:0!important;
+    );} 
+    .circle-image.hover-type-text {(; 
+        border-radius:0!important;
+    );} 
+}
+_::-webkit-full-page-media, _:future,:root .circle-image.hover-type-text {  border-radius:0!important; }
+_::-webkit-full-page-media, _:future,:root .circle-image.hover-type-text img.vc_box_circle {  border-radius:0!important; }
+
+
+@media (max-width:1269px) {
+  .wpb_row .bottom-aligned .wpb_column {
+    height:auto!important;
+    width:100%!important;
+    float:left!important;
+    margin-bottom:20px!important;;
+  }
+  .bottom-aligned h3, .bottom-aligned p{
+    text-align:center!important;
+  }
+  .bottom-aligned * {
+    margin:0 auto!important;
+  }
+}
+
+/*Circle Zoomed Image*/
+.circle-image .text-hover {
+    border-radius:50%;
+}
+
+/*Footer Icon transparent*/
+.footer-page-copyright .dt-social li {background: transparent;}
+.footer-page-copyright .dt-social li a  {color:#ddd;}
+
+/*Centering Copyright at small device resolution*/
+@media (max-width:767px) {
+ .footer-page-copyright * {text-align:center!important;}   
+}
+/*Hide Shop category Description*/
+.product-category .text-description {display:none!important;}            
