@@ -17,3 +17,6 @@ Route::get('/', function () {
 
 Route::get('/home', 'PagesController@index')->name('home');
 Route::post('/create', 'PagesController@create');
+
+Route::get('/home', 'PagesController@index')->name('home');
+Route::post('/create', 'PagesController@create');
